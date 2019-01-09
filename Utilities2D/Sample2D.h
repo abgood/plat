@@ -17,4 +17,7 @@ class Sample2D : public Object
 public:
 	explicit Sample2D(Context* context);
 	~Sample2D() override = default;
+
+	String demoFilename_;
+	Scene* scene_{};
 };

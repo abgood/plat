@@ -5,4 +5,4 @@ rm CMakeFiles/ -rf
 rm bin/snake.exe -rf
 rm CMakeCache.txt -rf
 rm Makefile -rf
-rm libsnake.dll.a -rf
+rm libplat.dll.a -rf

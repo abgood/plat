@@ -15,7 +15,7 @@ public:
 	void Setup() override;
 
 private:
-	// void CreateScene();
+	void CreateScene();
 
 	SharedPtr<Sample2D> sample2D_;
 };
